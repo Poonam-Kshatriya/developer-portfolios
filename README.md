@@ -553,6 +553,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
+- [Poonam Kshatriya]
+(https://Poonam-kshatriya.github.io/B/Portfolio.html)
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
 - [Praveen Kumar Purushothaman](https://praveen.science)
